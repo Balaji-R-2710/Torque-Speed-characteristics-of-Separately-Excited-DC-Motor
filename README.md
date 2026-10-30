@@ -35,14 +35,19 @@ To simulate and analyze the torque-speed characteristics of Separately excited D
 17.	Analyze and record your inference.
     
 ## Observation Table
-<img width="445" height="272" alt="image" src="https://github.com/user-attachments/assets/a9f939ea-cd8e-4055-b4f3-78b088dd0ad6" />
+<img width="271" height="197" alt="image" src="https://github.com/user-attachments/assets/400c5fd0-9103-49e6-a2fd-d685af27d36f" />
 
   ## Graph (Torque Speed Characteristics)
+<img width="582" height="346" alt="image" src="https://github.com/user-attachments/assets/e6377151-c3fc-4da3-8668-ac25115a6719" />
+
+## MATLAB Simulation Diagram
+<img width="1788" height="803" alt="image" src="https://github.com/user-attachments/assets/c9c11b99-8824-4f79-8071-665b457efb03" />
 
 
   ## MATLAB Simulation Output
 
+<img width="1918" height="1042" alt="image" src="https://github.com/user-attachments/assets/ec9bece9-b6c6-4062-9c91-b0355af9589d" />
 
 
   ## Result
-
+Thus torque-Speed-characteristics-of-Separately-Excited-DC-Motor is achieved and observed.
